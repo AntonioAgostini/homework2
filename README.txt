@@ -9,7 +9,7 @@ APERTURA PROGETTO:
 Il progetto si avvierà automaticamente nella home del fandom, caricando la prima volta il database su cui potremo andare a svolgere delle operazioni.
 
 DATI USER:
-Alla prima apertura verranno caricati attraverso uno script php 4 user:
+Alla prima apertura verranno caricati (attraverso uno script php) 4 user:
 __________________________________________________
 | id | username | email             | password   |
 |________________________________________________|
