@@ -34,8 +34,6 @@ l'admin può:
 - modificare, aggiungere ed eliminare le citazioni
 - eliminare gli utenti registrati (di conseguenza verranno eliminati i post associati a quell'utente)
 
-
-
 INDIRIZZO DELLA REPOSITORY DI GITHUB:
 https://github.com/AntonioAgostini/homework2.git
 
