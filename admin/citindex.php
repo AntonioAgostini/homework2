@@ -58,7 +58,7 @@
         <div class="cit">
         <form action="crudsaga.php" method="post" enctype="multipart/form-data">
             <div>
-                <p>Inserisci una nuova saga:</p>
+                <p>Inserisci una nuova citazione:</p>
                 <input type="text" name="nome_pers" id="" placeholder="Inserisci Nome:">
                 <textarea name="cit" id="" cols="30" rows="10"></textarea>
                 <input type="file" name="img" >
